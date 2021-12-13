@@ -1,0 +1,1 @@
+# SAT-approach-for-8-queens-problem
